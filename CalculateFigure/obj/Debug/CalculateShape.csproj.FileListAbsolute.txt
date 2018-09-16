@@ -1,0 +1,9 @@
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\obj\Debug\CalculateShape.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\bin\Debug\CalculateFigure.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\bin\Debug\CalculateFigure.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\obj\Debug\CalculateFigure.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\bin\Debug\CalculataShapeForm.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\bin\Debug\ShapeCalculationLibrary.dll
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\bin\Debug\CalculataShapeForm.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculateFigure\bin\Debug\ShapeCalculationLibrary.pdb

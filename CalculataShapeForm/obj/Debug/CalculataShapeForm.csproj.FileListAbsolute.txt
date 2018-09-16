@@ -1,0 +1,42 @@
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\bin\Debug\CalculataShapeForm.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\bin\Debug\CalculataShapeForm.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Properties.Resources.resources
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.csproj.GenerateResource.Cache
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.mainShape.resources
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Circle.resources
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Rectangle.resources
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Square.resources
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Triangle.resources
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\bin\Debug\ShapeCalculationLibrary.dll
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\CalculataShapeForm\bin\Debug\ShapeCalculationLibrary.pdb
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.exe
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.pdb
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\CalculataShapeForm.exe
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\CalculataShapeForm.pdb
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\ShapeCalculationLibrary.dll
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\ShapeCalculationLibrary.pdb
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.csprojResolveAssemblyReference.cache
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Circle.resources
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.mainShape.resources
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Properties.Resources.resources
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Rectangle.resources
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Square.resources
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Triangle.resources
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.csproj.GenerateResource.Cache
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\CalculataShapeForm.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\CalculataShapeForm.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\ShapeCalculationLibrary.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\bin\Debug\ShapeCalculationLibrary.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.csprojResolveAssemblyReference.cache
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Circle.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.mainShape.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Properties.Resources.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Rectangle.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Square.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.Triangle.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\CalculataShapeForm\obj\Debug\CalculataShapeForm.csproj.GenerateResource.Cache

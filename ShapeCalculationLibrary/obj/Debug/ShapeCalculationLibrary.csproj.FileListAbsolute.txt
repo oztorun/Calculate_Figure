@@ -1,0 +1,15 @@
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\ShapeCalculationLibrary\bin\Debug\ShapeCalculationLibrary.dll
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\ShapeCalculationLibrary\bin\Debug\ShapeCalculationLibrary.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.dll
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\bin\Debug\ShapeCalculationLibrary.dll
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\bin\Debug\ShapeCalculationLibrary.pdb
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.dll
+C:\Users\Özgür\Desktop\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\bin\Debug\ShapeCalculationLibrary.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\bin\Debug\ShapeCalculationLibrary.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.csprojResolveAssemblyReference.cache
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\CalculateFigure\ShapeCalculationLibrary\obj\Debug\ShapeCalculationLibrary.pdb
